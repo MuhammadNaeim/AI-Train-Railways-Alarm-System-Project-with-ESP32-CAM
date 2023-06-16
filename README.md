@@ -22,4 +22,4 @@
 ![train railways2](https://github.com/MuhammadNaeim/Train-Railways-Alarm-System-Project-with-ESP32-CAM/assets/74180779/988aef53-7213-469d-9e68-ec74d0de9546)
 4. The ESP32-CAM (represented by no. 7): runs an object detection program to detect objects on the railway, so when it detects a human when the train is coming, it initiates the alarm system.
 
-- **The LDR sensor detects the sunlight, so it lights up station lights when the sun goes down.
+**- The LDR sensor detects the sunlight, so it lights up station lights when the sun goes down.
