@@ -3,7 +3,7 @@
 ## This is my project for the second communications engineering year. throughout this article I'll walk you through the system and the components and how they work together.
 ![design](https://github.com/MuhammadNaeim/Train-Railways-Alarm-System-Project-with-ESP32-CAM/assets/74180779/0ee69485-b88e-40dd-bec9-69bf39798e2d)
 
-**When I started working on this project, I created this design based on my imagination which my teammates and I managed to bring to life.
+** When I started working on this project, I created this design based on my imagination which my teammates and I managed to bring to life.
 ## The components used:
 - 3 Ultrasonic sensors
 - 2 Hall Effect sensors
